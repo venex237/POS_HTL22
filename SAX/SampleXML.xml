@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Parser>
+  
+  <SAX>
+	<Text>Das ist ein SAX Parser</Text>
+	<Text>SAX steht für "Simple API for XML Parsing"</Text>
+	<Text>SAX lädt nicht die ganze Datei in den Memory = langsamer</Text>
+	<Text>SAX wird eher bei großen XML Dateien benutzt</Text>
+	<Text>SAX ist eventbasiert</Text>
+  </SAX>
+  
+  <DOM>
+	<CHILD>Das ist ein Subelement von DOM</CHILD>
+  </DOM>
+</Parser>
+
+
