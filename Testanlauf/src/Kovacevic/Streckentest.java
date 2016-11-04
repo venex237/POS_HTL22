@@ -15,6 +15,17 @@ public class Streckentest {
 		{
 			System.out.println(strecke[i].toString());
 		}
+		double low = 1000000.0;
+		int merken = 0;
+		for (int j = 0; j < strecke.length; j++) {
+			if (strecke[j].length() < low) {
+				merken = j;
+				low = strecke[j].length();
+			}
+		}
+		System.out.println();
+		System.out.println("Die Kuerzeste Strecke ist:");
+		System.out.println(strecke[merken].toString());
 	}
 }
 
