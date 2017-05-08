@@ -1,0 +1,9 @@
+H:\HÜ der Woche\XML\XML\bin\Debug\XML.exe.config
+H:\HÜ der Woche\XML\XML\bin\Debug\XML.exe
+H:\HÜ der Woche\XML\XML\bin\Debug\XML.pdb
+H:\HÜ der Woche\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+H:\HÜ der Woche\XML\XML\obj\Debug\XML.exe
+H:\HÜ der Woche\XML\XML\obj\Debug\XML.pdb
+C:\Users\Venex237\Desktop\XML\XML\bin\Debug\XML.exe.config
+C:\Users\Venex237\Desktop\XML\XML\obj\Debug\XML.exe
+C:\Users\Venex237\Desktop\XML\XML\obj\Debug\XML.pdb

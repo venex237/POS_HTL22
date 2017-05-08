@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Nodes> <!--ROOT-->
+  <GoodGuys> <!--ELEMENT WITH NO ATTRIBUTES-->
+    <IPAddress>10.9.8.7</IPAddress> <!--CHILD ELEMENT-->
+    <IPAddress Port="8080">10.9.8.7</IPAddress> <!--CHILD ELEMENT WITH ATTRIBUTES-->
+  </GoodGuys>
+  
+  <BadGuys>
+    <IPAddress>10.9.8.7</IPAddress>
+    <IPAddress Port="9090" Security="Very Secure">10.9.8.7</IPAddress>
+  </BadGuys>
+
+  <GoodGuys>
+    <Hostname>www.google.com</Hostname>
+    <Hostname Port="8080" Security="Secure">www.microsoft.com</Hostname>
+  </GoodGuys>
+  
+  <BadGuys>
+    <Hostname>www.google.com</Hostname>
+    <Hostname Port="9090" Security="unknown">www.microsoft.com</Hostname>
+  </BadGuys>
+</Nodes>
+
+

@@ -1,0 +1,6 @@
+H:\HÜ der Woche\Parkplatz\Parkplatz\bin\Debug\Parkplatz.exe.config
+H:\HÜ der Woche\Parkplatz\Parkplatz\bin\Debug\Parkplatz.exe
+H:\HÜ der Woche\Parkplatz\Parkplatz\bin\Debug\Parkplatz.pdb
+H:\HÜ der Woche\Parkplatz\Parkplatz\obj\Debug\Parkplatz.csprojResolveAssemblyReference.cache
+H:\HÜ der Woche\Parkplatz\Parkplatz\obj\Debug\Parkplatz.exe
+H:\HÜ der Woche\Parkplatz\Parkplatz\obj\Debug\Parkplatz.pdb
